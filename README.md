@@ -3,7 +3,7 @@
   ![Banner](YOUR_BANNER_URL)
 
   ## 👋 Hey there, I’m **Deep Ratanpara**
-  **Cybersecurity Enthusiast** • **Full-Stack Developer (Java | Angular)**  
+  **Security Enthusiast** • **Developer (Java | Python)**  
   🛡️ Passionately building secure, high-impact software solutions
 
   <br>
@@ -16,7 +16,7 @@
 
 ## 🧪 Novelty – My Security Innovation
 
-### 🚀 DotDash Data Protection System 🔐 *(Patent Applied)*
+### 🚀 DotDash Data Protection System 🔐 *(Patented)*
 A unique security mechanism combining:
 ✔ Random Binary-Tree–based Crypto  
 ✔ Morse-Code-Style Data Obfuscation  
@@ -46,7 +46,7 @@ A unique security mechanism combining:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### ⚙ Tools
-`Git` `GitHub` `Postman` `Flask` `Pandas` `OCR`
+`Git` `GitHub` `Postman` `Flask` `Pandas` `OCR` `VS code`
 
 ---
 
@@ -66,27 +66,6 @@ A unique security mechanism combining:
 ✔ Automated backend  
 ✔ External fraud APIs + JWT authentication  
 ✔ Modular secure architecture
-
----
-
-## 💼 Experience
-
-**TSS Consultancy Services — Associate Software Engineer**  
-📍Rajkot, Gujarat — June 2025 → Present  
-➡ Working on Java + Angular modules, secure backend workflows
-
-**Data Extractor Intern — TSS Consultancy Services**  
-Jan 2025 → May 2025  
-➡ ETL automation (Python, Pandas, BeautifulSoup, OCR)
-
----
-
-## 🎓 Education
-
-**B.Sc. Computer Science — Marwadi University** — 8.0 CGPA  
-**Cybersecurity Club – Administrator**  
-**Programming Club – Member**  
-> Conducted sessions on Web-Pen Testing & Secure Coding
 
 ---
 
