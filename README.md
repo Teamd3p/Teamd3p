@@ -1,14 +1,26 @@
-<div align="center">
+<table>
+<tr>
+<td width="60%" align="left">
 
-## 👋 Hey there, I’m **Deep Ratanpara**
-**Security Enthusiast** • **Developer (Java | Python)**  
+<h2>👋 Hey there, I’m <strong>Deep Ratanpara</strong></h2>
+
+Security Enthusiast • Developer (Java | Python)  
 🛡️ Passionately building secure, high-impact software solutions  
 
 <br>
 
-🔹 “Quality > Quantity — I choose to build fewer projects that truly make a difference”
+🔹 “Quality > Quantity — I choose to build fewer projects that truly make a difference”  
 
-</div>
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
