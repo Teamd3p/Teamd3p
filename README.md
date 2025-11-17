@@ -1,15 +1,10 @@
-<div align="center">
-  
-  ![Banner](YOUR_BANNER_URL)
-
-  ## 👋 Hey there, I’m **Deep Ratanpara**
-  **Security Enthusiast** • **Developer (Java | Python)**  
-  🛡️ Passionately building secure, high-impact software solutions
-
-  <br>
-
-  🔹 “Quality > Quantity — I choose to build fewer projects that truly make a difference”
-
+<div align="center" style="position: relative;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYC7g-YoX8dJka84zH9yxTLO7nFpONrf7Fqw&s" width="100%" style="opacity:0.3;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
+    <h1>👋 Hey there, I'm Deep Ratanpara</h1>
+    <h3>Security Enthusiast • Java | Python Developer</h3>
+    <p>🛡 Passionately building secure, high-impact software solutions</p>
+  </div>
 </div>
 
 ---
