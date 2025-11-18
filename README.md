@@ -49,7 +49,7 @@ A unique security mechanism combining:
 
 #### 🌐 Web Development
 ![Angular](https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 #### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
